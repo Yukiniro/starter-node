@@ -20,6 +20,10 @@
   ],
   "author": "Yukiniro",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+		"url": "https://github.com/Yukiniro/ssprojet"
+  },
   "devDependencies": {
     "@babel/core": "^7.17.8",
     "@babel/plugin-transform-modules-commonjs": "^7.17.7",
