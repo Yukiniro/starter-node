@@ -17,7 +17,6 @@ specifiers:
   rollup-plugin-typescript2: ^0.31.2
   tslib: ^2.3.1
   typescript: ^4.6.2
-  vite: ^2.9.1
   vitest: ^0.7.6
 
 devDependencies:
@@ -37,7 +36,6 @@ devDependencies:
   rollup-plugin-typescript2: 0.31.2_rollup@2.70.1+typescript@4.6.2
   tslib: 2.3.1
   typescript: 4.6.2
-  vite: 2.9.1
   vitest: 0.7.6
 
 packages:
