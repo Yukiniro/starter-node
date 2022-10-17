@@ -1,8 +1,10 @@
 {
   "name": "ssprojet",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple Start Template",
-  "main": "index.ts",
+  "main": "dist/ssprojet.cjs",
+  "module": "dist/ssprojet.mjs",
+  "types": "dist/src/index.d.ts",
   "scripts": {
     "build": "rollup -c rollup.config.mjs",
     "lint": "npx eslint src/**",
