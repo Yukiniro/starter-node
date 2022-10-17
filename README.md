@@ -11,6 +11,8 @@ The `ssprojet` is a template to start a simple project.
 - `docusaurus` - document library
 - `prettier` - code style formate
 - `eslint` - code quality
+- `husky` - pre-commit
+- `lint-staged` - auto lint for staged files
 
 ## How to use
 

@@ -1,6 +1,6 @@
 {
   "name": "ssprojet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Start Template",
   "main": "dist/ssprojet.cjs",
   "module": "dist/ssprojet.mjs",
