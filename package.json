@@ -1,5 +1,5 @@
 {
-  "name": "ssprojet",
+  "name": "starter-node",
   "version": "1.0.1",
   "description": "Simple Start Template",
   "main": "dist/ssprojet.cjs",
