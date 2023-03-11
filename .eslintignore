@@ -2,3 +2,4 @@ dist
 __test__
 node_modules
 website
+rollup.*

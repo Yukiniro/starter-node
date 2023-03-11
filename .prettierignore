@@ -1,3 +1,4 @@
 .husky
 .lintstagedrc
 .prettierignore
+.eslintignore

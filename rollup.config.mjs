@@ -31,12 +31,8 @@ function getConfig(libraryName) {
   };
 }
 
-export default readFile("./package.json", "utf8")
-  .then((json) => {
-    const libraryName = JSON.parse(json).name;
-    return getConfig(libraryName);
-  })
-  .catch((e) => {
-    console.log(e);
-    return getConfig("my-project");
-  });
+const json = await readFile("./package.json", "utf8");
+const libraryName = JSON.parse(json).name;
+const config = getConfig(libraryName);
+
+export default config;
