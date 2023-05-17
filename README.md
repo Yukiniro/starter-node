@@ -16,6 +16,6 @@ The `starter-node` is a template to start a node project.
 
 ## How to use
 
-You could use `degit Yukiniro/ssprojet your-project-name` to create a project.
+You could use `degit Yukiniro/starter-node your-project-name` to create a project.
 
 If you have no `degit`. Please install it by `npm install -g degit`.
